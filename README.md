@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jef4450
+- 👀 I’m interested in software development
+- ⚡ Fun fact:i love creating cute websites and apps
