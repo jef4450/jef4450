@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jef4450
-- 👀 I’m interested in software development
-- ⚡ Fun fact:i love creating cute websites and apps
+- 👋 Hi, I’m jef
+- 👀 I’m interested in software development.I turn ideas into pixelated models and innovative apps 
+- ⚡ Fun fact:i love creating cute websites.
 - COLD COFFEE FOR LIFE <3
