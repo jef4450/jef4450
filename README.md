@@ -1,4 +1,5 @@
 - 👋 Hi, I’m jef
-- 👀 I’m interested in software development.I turn ideas into pixelated models and innovative apps 
-- ⚡ Fun fact:i love creating cute websites.
+- 👀 I’m an aspiring Data Analyst|Learning tableau, python and SQL ☕️
+- ⚡ Fun fact:Research is my main domain ..i love interesting problem statements
+- currently working on blockchain with domain healthcare 🏥
 - COLD COFFEE FOR LIFE <3
