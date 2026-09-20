@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jef
-- 👀 I’m an aspiring Data Analyst|Learning tableau, python and SQL ☕️
+- 👀 I’m an aspiring AI Engineer|Learning how to deploy end to end mechanisms☕️
 - ⚡ Fun fact:Research is my main domain ..i love interesting problem statements
-- currently working on blockchain with domain healthcare 🏥
+- currently working on RAG END TO END DEPLOYMENT of AI🏥
 - COLD COFFEE FOR LIFE <3
